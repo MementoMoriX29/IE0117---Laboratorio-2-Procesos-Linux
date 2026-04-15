@@ -4,7 +4,6 @@
 # Programacion Bajo Plataformas Abiertas
 
 # R1. Recepcion de argumentos
-#!/bin/bash
 
 if [ $# -lt 1 ]; then
    echo "Uso: $0 \"<comando>\" [intervalo_segundos]"
